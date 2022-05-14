@@ -1,6 +1,5 @@
 # Requirement Analysis
-This section details the initial requirement analysis findings. We will use 5Ws framework and SWOT analysis technique to assess the business need and requirements.
-
+This section details the initial requirement analysis findings. We will use 5Ws framework and SWOT analysis technique to assess the business need and requirements.\
 5Ws and H Framework\
 •	Who are we trying to help?\
 People to get better technology based wiper system.\
