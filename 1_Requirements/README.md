@@ -13,4 +13,3 @@ Our products accuracy and effectiveness are the factors which differentiate us f
 The launch should be done immediately as it is necessary to assess public awareness to avoid the helplessness.\
 •	How will we do it?\
 We will use embedded C language for the coding part and microcontroller STM32 for designing of the circuit. 
-
